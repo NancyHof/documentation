@@ -11,6 +11,8 @@ The Maricopa field site is located at the the [University of Arizona Maricopa Ag
 * **UAV** \(release V1\)
 * **Manually Collected Field Data** - Data will are collected manually using standard field methods. These measurements are used to calibrate and validate phenotypes derived from sensor-collected data.
 
+[Agronomic and physiological protocols at MAC](https://docs.google.com/document/d/1iP8b97kmOyPmETQI_aWbgV_1V6QiKYLblq1jIqXLJ84/edit#heading=h.3w6iuawxkjl6)
+
 ## Plantings
 
 * Season 1 sorghum \(April - July 2016\) 
@@ -49,7 +51,7 @@ The Maricopa field site is located at the the [University of Arizona Maricopa Ag
 
 ##### Data collected
 
- The planned sensor missions and their objectives for 2016 are [available here](https://docs.google.com/spreadsheets/d/1Nfabx_n1rNlO6NW3olD8MAibJ3KHnOMmMwOYYw4wwGc/pubhtml?gid=2092320800&single=true&widget=true&headers=false).
+The planned sensor missions and their objectives for 2016 are [available here](https://docs.google.com/spreadsheets/d/1Nfabx_n1rNlO6NW3olD8MAibJ3KHnOMmMwOYYw4wwGc/pubhtml?gid=2092320800&single=true&widget=true&headers=false).
 
 Manual field data:
 
@@ -77,8 +79,9 @@ Under scanner system - same as season 1
 
 ##### Data collected
 
-The planned sensor missions and their objectives are the same as for 2016, [available here](https://docs.google.com/spreadsheets/d/1Nfabx_n1rNlO6NW3olD8MAibJ3KHnOMmMwOYYw4wwGc/pubhtml?gid=2092320800&single=true&widget=true&headers=false).
+The planned sensor missions and their objectives are the same as for 2016, [available here](https://docs.google.com/spreadsheets/d/1Nfabx_n1rNlO6NW3olD8MAibJ3KHnOMmMwOYYw4wwGc/pubhtml?gid=2092320800&single=true&widget=true&headers=false).  
  Manually Collected Field Data:
+
 * plant heights
 * managements 
 * emergence vigor 
@@ -87,7 +90,9 @@ The planned sensor missions and their objectives are the same as for 2016, [avai
 * leaf length and width on marked plants, one date
 
 ### Durum wheat
+
 ## 
+
 ##### [Experimental design](https://docs.google.com/spreadsheets/d/15hLUFquat4T-8-ejBKTHRYGgGO1LL3w6UwMQ6jxHA8E/edit#gid=1274912251)
 
 ##### [Automatically and manually collected field data plan](https://docs.google.com/spreadsheets/d/15hLUFquat4T-8-ejBKTHRYGgGO1LL3w6UwMQ6jxHA8E/edit#gid=623178992)
@@ -96,5 +101,6 @@ The planned sensor missions and their objectives are the same as for 2016, [avai
 
 * [Experiments planned for 2016](https://docs.google.com/spreadsheets/d/1Nfabx_n1rNlO6NW3olD8MAibJ3KHnOMmMwOYYw4wwGc/pubhtml?gid=890543376&single=true&widget=true&headers=false)
 * Field layouts [under the gantry](https://docs.google.com/spreadsheets/d/1Nfabx_n1rNlO6NW3olD8MAibJ3KHnOMmMwOYYw4wwGc/pubhtml?gid=1231399646&single=true&widget=true&headers=false) and [west of the gantry](https://docs.google.com/spreadsheets/d/1Nfabx_n1rNlO6NW3olD8MAibJ3KHnOMmMwOYYw4wwGc/pubhtml?gid=728631369&single=true&widget=true&headers=false) in 2016.
+
 
 

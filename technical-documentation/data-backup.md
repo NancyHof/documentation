@@ -2,6 +2,8 @@
 
 ## Raw data
 
+%\[% Flesh out with full sentences. %\]%
+
 Running nightly on ROGER.
 
 Script is hosted at: /gpfs/smallblockFS/home/malone12/terra\_backup
@@ -22,4 +24,6 @@ These backups are copied using crashplan to a central location and should allow 
 * Github issues: 
   * [https://github.com/terraref/computing-pipeline/issues/87](https://github.com/terraref/computing-pipeline/issues/87)
   * [https://github.com/terraref/computing-pipeline/issues/384](https://github.com/terraref/computing-pipeline/issues/384)
+
+
 

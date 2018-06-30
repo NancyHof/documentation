@@ -1,24 +1,8 @@
 # Data Collection
 
-## Maricopa Agricultural Center, Arizona
+#### [Maricopa Agricultural Center, Arizona](/scientific-objectives-and-experimental-design/protocols/the-maricopa-agricultural-center-mac.md)
 
-* The Lemnatec Scanalyzer Field Gantry System
-  * Sensor missions
-  * Scientific Motivation
-  * What sensors, how often etc. 
-* Tractor
-* UAV
-* Manually Collected Field Data
-
-[https://docs.google.com/document/d/1iP8b97kmOyPmETQI\_aWbgV\_1V6QiKYLblq1jIqXLJ84/edit\#heading=h.3w6iuawxkjl6](https://docs.google.com/document/d/1iP8b97kmOyPmETQI_aWbgV_1V6QiKYLblq1jIqXLJ84/edit#heading=h.3w6iuawxkjl6) [https://github.com/terraref/reference-data/issues/45](https://github.com/terraref/reference-data/issues/45)
-
-## Automated controlled-environment phenotyping, Missouri
-
-The Scanalyzer 3D platform consists of multiple digital imaging chambers connected to the Conviron growth house by a conveyor belt system, resulting in a continuous imaging loop. Plants are imaged from the top and/or multiple sides, followed by digital construction of images for analysis.
-
-* RGB imaging allows visualization and quantification of plant color and structural morphology, such as leaf area, stem diameter and plant height.
-* NIR imaging enables visualization of water distribution in plants in the near infrared spectrum of 900–1700 nm.
-* Fluorescent imaging uses red light excitation to visualize chlorophyll fluorescence between 680 – 900 nm. The system is equipped with a dark adaptation tunnel preceding the fluorescent imaging chamber, allowing the analysis of photosystem II efficiency.  
+#### [Danforth Center Automated controlled-environment phenotyping](/scientific-objectives-and-experimental-design/protocols/bellweather-foundation-controlled-environment-phenotyping.md),
 
 **Capturing images**
 
@@ -27,9 +11,11 @@ This video overview will help explain the capture system:
 
 The LemnaTec software suite is used to program and control the Scanalyzer platform, analyze the digital images and mine resulting data. Data and images are saved and stored on a secure server for further review or reanalysis.
 
-You can read more about the Danforth Plant Sciences Center Bellwether Foundation Phenotyping Facility on the [DDPSC website](https://www.danforthcenter.org/scientists-research/core-technologies/phenotyping).
+Y
 
 ## Kansas State University
 
 ## HudsonAlpha - Genomics
+
+
 
