@@ -1,11 +1,13 @@
 # UAV Protocols
 
+%[% A similar brief overview of the purpose/use/approach of this section would be good. %]%
 ```text
 Authors: Rick Ward
 ```
 
 ## Abstract
 
+%[% A similar brief overview of the purpose/use/approach of this section would be good. %]%
 ## Materials
 
 ### Platforms

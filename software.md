@@ -1,6 +1,6 @@
 # Software
 
-TERRA-REF uses a suite of databases and software components that are described below.
+TERRA-REF uses a suite of databases and software to automate the analysis of sensor data to produce plant and plot level traits / phenotypes, store and provide access to data. 
 
 ![](.gitbook/assets/terraref-pipeline-simple-v4.jpg)
 
@@ -16,21 +16,24 @@ Raw data is transferred to the primary TERRA-REF compute pipeline using Globus O
 
 BETYdb is a database and web interface to the trait / phenotype data and agronomic metadata. This is where you can find plant and plot level trait data as well as plot locations and other information associated with agronomic experimental design. Use BETYdb to access derived trait and agronomic data. For more information, see [Using BETYdb](user-manual/how-to-access-data/using-betydb-trait-data-experimental-metadata/).
 
-## Algorithms \(a.k.a. 'extractors'\)
+## **CoGe** \(genomic data\)
 
-### Plant CV
+CoGe contains genomic information and sequence data. For more information, see [Using CoGe](user-manual/how-to-access-data/using-coge-genomics.md).
+
+
+## Plant CV
 
 [Plant CV](http://plantcv.danforthcenter.org/) is an imaging processing package specific for plants that is built upon open-source software platforms [OpenCV](http://opencv.org/), [NumPy](http://www.numpy.org/), and [MatPlotLib](http://matplotlib.org/). Plant CV is used for trait identification, the output is stored in both Clowder and BETYdb.
 
-### Other Algorithms
+## NDS Workbench 
+The NDS Workbench enables users to access the large filesystem and databases with familiar development environments. We provide a variety of environments for developing new algorithms and integrating them into the TERRA REF pipeline. These include [RStudio](https://www.rstudio.com/) and [Jupyter Notebooks](http://jupyter.org/) configured for specific use cases such as sensor data processing, trait analysis, database queries, and piepline development.
+
+
+## Algorithms (a.k.a. "Extractors")
 
 Each step in the pipeline is performed by an algorithm. These are maintained in the TERRA REF GitHub organization in repositories with names that begin in `extractors-*` such as [github.com/terraref/extractors-hyperspectral](https://github.com/terraref/extractors-hyperspectral).
 
-## Analysis Tools
 
-The NDS Workbench enables users to access the large filesystem and databases with familiar development environments. We provide a variety of environments for developing new algorithms and integrating them into the TERRA REF pipeline. These include [RStudio](https://www.rstudio.com/) and [Jupyter Notebooks](http://jupyter.org/) configured for specific use cases such as sensor data processing, trait analysis, database queries, and piepline development.
 
-## **CoGe**
 
-CoGe contains genomic information and sequence data. For more information, see [Using CoGe](user-manual/how-to-access-data/using-coge-genomics.md).
 

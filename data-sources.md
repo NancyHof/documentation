@@ -22,7 +22,7 @@ The Maricopa field site is located at the the University of Arizona Maricopa Agr
 
 The [Bellwether Foundation Phenotyping Facility](https://www.danforthcenter.org/scientists-research/core-technologies/phenotyping) is a climate controlled 70 m2 growth house with a conveyor belt system for moving plants to and from fluorescence, color, and near infrared imaging cabinets. This automated, high-throughput platform allows repeated non-destructive time-series image capture and multi-parametric analysis of 1,140 plants in a single experiment.
 
-## Genomics
+## 
 
-Genomic data includes whole-genome resequencing data from the HudsonAlpha Institute for Biotechnology, Alabama for 384 samples for accessions from the sorghum Bioenergy Association Panel \(BAP\) and genotyping-by-sequencing \(GBS\) data from Kansas State University for 768 samples from a population of sorghum recombinant inbred lines \(RIL\).
+
 

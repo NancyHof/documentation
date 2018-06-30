@@ -1,5 +1,7 @@
 # Using CyVerse \(Genomics\)
 
+%\[% what \[subset\] of Terra-ref data is on cyverse. Shouldn’t this be included in the list at the head of this section? %\]%
+
 ## About CyVerse
 
 [CyVerse](http://www.cyverse.org/) is a National Science Foundation funded cyberinfrastructure that aims to democratize access to supercomputing capabilities.

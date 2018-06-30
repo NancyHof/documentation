@@ -1,5 +1,7 @@
 # How to Access Data
 
+%\[% Might be helpful to point different user groups to different access points. I.e. if I’m a grad student just wanting to do some agronomic ANOVAS should I go right to BETYdb? If I’m a power user will I find more value in Clowder? %\]%
+
 ## Overview
 
 TERRA-REF data is available through four different approaches: Globus Connect, Clowder, BETYdb, and CoGe. Raw data is transfered to the primary compute pipeline using Globus Online. Data is ingested into Clowder to support exploratory analysis. The Clowder extractor system is used to transform the data and create derived data products, which are either available via Clowder or published to specialized services, such as BETYdb.
@@ -41,4 +43,6 @@ For more information, see [Using CoGe](using-coge-genomics.md).
 * Field protocols
 * Calibration protocols
 * Field scanner operational log [https://github.com/terraref/computing-pipeline/issues/128](https://github.com/terraref/computing-pipeline/issues/128)
+
+
 

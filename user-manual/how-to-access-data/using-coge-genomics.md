@@ -1,6 +1,6 @@
 # Using CoGe \(Genomics\)
 
-**CoGe** contains genomic data.
+**CoGe** contains genomic data. %\[% more detail and specificity here. What kind? %\]%
 
 ## About CoGe
 

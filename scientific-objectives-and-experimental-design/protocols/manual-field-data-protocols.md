@@ -1,4 +1,5 @@
 # Manual Field Data Protocols
+%[% CONSIDER splitting these into individual documents %]%
 
 ### Abstract
 

@@ -30,6 +30,8 @@ Here are some examples \(note that we can change from canonical units to match t
 
 ## Running The Pipeline
 
+%\[% Describe what the pipeline is and what it does %\]%
+
 **Before the Running**
 
 The pipepline is developed in Python, so a Python Interpreter is a must. Other than the basic Python standard librarys, the following third-party libraries are required:

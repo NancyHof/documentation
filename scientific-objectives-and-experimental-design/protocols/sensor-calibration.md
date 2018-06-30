@@ -1,5 +1,11 @@
 # Sensor Calibration
+%[%
+It would be good to give readers a clue about how these are organized in the section (by method of acquisition?)
 
+If we start each subsection with some general info, we can provide links to the nitty-gritty, so that those interested in the technicalities (e.g., snippets of code) can access them easily (through the links), whereas a more general reader can stick with the general descriptions. By layering the text, we can cater to both the highly technical and the general reader.
+
+Consider splitting this section into sensor-specific protocols. Repeat info if necessary.
+%]%
 This section describes sensor calibration processes and how to access additional information about specific calibration protocols, calibration targets, and associated reference data.
 
 ## LemnaTec Field Scanalyzer

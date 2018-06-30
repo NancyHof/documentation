@@ -1,6 +1,6 @@
-# Experimental Design Genomics
+# Genomics
 
-Genomic data includes whole-genome resequencing data from the HudsonAlpha Institute for Biotechnology, Alabama for 384 samples for accessions from the sorghum Bioenergy Association Panel \(BAP\) and genotyping-by-sequencing \(GBS\) data from Kansas State University for 768 samples from a population of sorghum recombinant inbred lines \(RIL\).
+Genomic data includes whole-genome resequencing data from the [HudsonAlpha Institute for Biotechnology](https://hudsonalpha.org/), Alabama for 384 samples for accessions from the sorghum Bioenergy Association Panel \(BAP\) and genotyping-by-sequencing \(GBS\) data from Kansas State University for 768 samples from a population of sorghum recombinant inbred lines \(RIL\).
 
 ## Whole-genome resequencing
 
@@ -16,4 +16,3 @@ Genomic data includes whole-genome resequencing data from the HudsonAlpha Instit
 **Experimental Design:**
 
 * [768 RIL samples](https://github.com/terraref/documentation/tree/56f669dc870b3c3921bfc029914545574e70f8df/user/user/genotyping-by-sequencing.md) were sequenced using a GBS approach.
-
