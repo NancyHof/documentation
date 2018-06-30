@@ -12,11 +12,11 @@ There needs to be more clarity about which site contains which types of data/sen
 
 There should also be some clarity on the frequency which each type of data is collected.
 
-Include here a description of Level 1, 2, 3 data
-
 %\]%
 
 Real-time sensor data transfer by file number and size can be viewed [here](http://terra-logging.ncsa.illinois.edu:3000/dashboard/db/sensor-file-counts-and-size?from=now-6M&to=now).
+
+Descriptions of data product levels can be viewed [here](/technical-documentation/data-product-creation/README.md).
 
 The following table lists available TERRA-REF data products. The table will be updated as new datasets are released. Links are provided to pages with detailed information about each data product including sensor descriptions, algorithm \(extractor\) information, protocols, and data access instructions.
 
