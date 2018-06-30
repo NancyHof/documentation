@@ -22,8 +22,7 @@ This documentation is intended to enable a wide variety of user-groups to use an
 
 * **Plant Physiologists** interested in finding and contributing _**phenotyping protocols**_. Relevant sections include [protocols](/scientific-objectives-and-experimental-design/protocols/README.md), and a [template protocol](/scientific-objectives-and-experimental-design/protocols/template-protocol.md) for contribution. 
 * **Computer/Data Scientists** looking for **computer vision **and** machine learning** problems. See a complete list of [data products](/user-manual/data-products/README.md), [data standards](/technical-documentation/data-standards/README.md), and [access requirements](/user-manual/how-to-access-data/README.md).
-* **Engineers, Developers **and **Institutional IT** looking for an example of IT **infrastructure **required to turn big data into scientific understanding. See an overview of the [software](/software.md) used, the [developer manual](/developer-manual/README.md) and [technical documentation](/technical-documentation/README.md).
-   
+* **Engineers, Developers and Institutional IT** looking for an example of IT **infrastructure** required to turn big data into scientific understanding. See an overview of the [software](/software.md) used, the [developer manual](/developer-manual/README.md) and [technical documentation](/technical-documentation/README.md).
 
 ## Versions
 
